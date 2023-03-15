@@ -13,9 +13,41 @@ int main() {
    // int z = y / 2;
    // cout << z << endl ;
 
-   int x;
-   cin >> x;
-   cout << x + 5 << endl;
+
+// gumar
+   // int x;
+   // cin >> x;
+   // cout << x + 5 << endl;
   
-   return 0;
+// if, else, 
+//   int x, y;
+//   cin >> x >> y;
+
+
+//   if(x == 100){
+//     if(y == 10){
+//        cout << (x+y) << endl;
+//     }else{
+//        cout << (x-y) << endl;
+//     }
+   
+//   }else if(x == 99){
+//     cout << 99 << endl;
+//   }else{
+//     cout << 1 << endl;
+//   }
+
+//   cout << 5 << endl;
+//    return 0;
+// }
+
+bool x = 1;
+cin >> x ;
+
+cout << x << endl;
+
+
+//  true = 1;
+// false = 0
+
 }
